@@ -125,8 +125,6 @@ mental_health.ipynb: Jupyter Notebook file for data analysis.
 
 README.md: Provides an overview and instructions for the project.
 
-215.md: Provides requirements for the project.
-
 mental_health.sqlite: Data sourse for analysis.
 
 requirements.txt: Provides list of packages to be installed what will be needed for anlysis.
