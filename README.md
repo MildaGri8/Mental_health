@@ -1,4 +1,3 @@
-# DS.v3.2.1.5
 ## Project - Mental Health in the Tech Industry
 
 **Objectives**
